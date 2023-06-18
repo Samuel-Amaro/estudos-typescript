@@ -18,6 +18,6 @@ npm install -g typescript
 
  Compilar um ```.ts``` para javascript
 
-````
+```
 tsc name-file.ts 
 ``` 
